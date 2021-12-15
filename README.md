@@ -1,1 +1,8 @@
 # Cplus_plusProgram
+
+- The task was to display a 12 and 24 hour clock and allow the user to change the hours, mins and seconds
+- I believe that the code is fairly efficent and easy to read
+- The portion of the code where I feel could be improved the most is the section where I display the 12 and 24 hour outputs.  The code in this section is long and difficult to read which could lead to problems in the future if changes had to be made.  If I could find a more efficent way to display the outputs the code would be much more readable in that section.
+- The most challenging part of this code for me was the 12 hour output.  Finding a way to keep both the 12 and 24 hour sections in sync with eachother and both advance with the same input was challenging.  I had to try a few different formulas to get it to work but putting both operations into 1 function was the best way that I found to accomplish this.  Getting experiance with functions is probably the biggest tool that this project has added to my experiance.
+- Both the trouble shooting skills and working with functions to remove as much code as possible from the main function while maintaining as much code readability as possible are the most transferrable skills from this project.
+- By keeping as much of the functions as I could seperate from the main code has made this code more readable, maintainable and adaptable.  By having functions seperate from the main function it is easier to go back and make changes to each function if something needed to be changed.  Keeping the code in seperate functions with inline comments keeps the code very readable.
